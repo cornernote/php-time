@@ -1,6 +1,6 @@
 <?php
 /**
- * PHP Short Unique ID
+ * PHP Time Helper
  *
  * Copyright (c) 2012 Brett O'Donnell <brett@mrphp.com.au>
  * Source Code: https://github.com/cornernote/php-time
